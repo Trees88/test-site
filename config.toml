@@ -1,0 +1,14 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "My New Hugo Site"
+
+[params]
+	AuthorName = "Theresia Schouten"
+	SiteDesc = "An Example Website Built with Hugo"
+
+[taxonomies]
+	category = "Categories"
+	tag = "tags"
+
+[permalinks]
+	post = "/:year/:slug"

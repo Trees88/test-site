@@ -2,6 +2,8 @@ baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "My New Hugo Site"
 
+publishDir = "docs"
+
 [params]
 	AuthorName = "Theresia Schouten"
 	SiteDesc = "An Example Website Built with Hugo"
